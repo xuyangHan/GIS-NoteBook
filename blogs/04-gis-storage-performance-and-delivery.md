@@ -1,4 +1,4 @@
-# GIS Storage, Performance, and Delivery in Plain Language
+# GIS Storage, Performance, and Delivery
 
 This post is about making GIS workflows fast and usable at scale.  
 Goal: help you understand why queries become slow, how indexing fixes that, and how map tiles/raster overviews make maps load smoothly.

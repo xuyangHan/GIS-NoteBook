@@ -1,4 +1,4 @@
-# Geospatial Databases and PostGIS in Plain Language
+# Geospatial Databases and PostGIS
 
 This post is for anyone who needs to **store, query, and run GIS in production** using a normal database.  
 We use **PostgreSQL + PostGIS** as the reference stack because it is widely used in jobs and interviews.

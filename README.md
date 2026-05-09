@@ -14,21 +14,21 @@ This repo is:
 
 ### GIS Platforms and Ecosystem
 
-- [GIS Platforms and Ecosystem in Plain Language](blogs/01-gis-platforms-and-ecosystem.md)
+- [GIS Platforms and Ecosystem](blogs/01-gis-platforms-and-ecosystem.md)
 
 ### GIS Concepts
 
-- [GIS Concepts Foundations in Plain Language](blogs/02-gis-concepts-foundations.md)
-- [GIS Reference Systems and Transformations in Plain Language](blogs/03-gis-reference-systems-and-transformations.md)
-- [GIS Storage, Performance, and Delivery in Plain Language](blogs/04-gis-storage-performance-and-delivery.md)
-- [GIS Interview Readiness Playbook in Plain Language](blogs/05-gis-interview-readiness-playbook.md)
+- [GIS Concepts Foundations](blogs/02-gis-concepts-foundations.md)
+- [GIS Reference Systems and Transformations](blogs/03-gis-reference-systems-and-transformations.md)
+- [GIS Storage, Performance, and Delivery](blogs/04-gis-storage-performance-and-delivery.md)
+- [GIS Interview Readiness Playbook](blogs/05-gis-interview-readiness-playbook.md)
 
 ### Data and Backend for Geospatial
 
-- Cloud geospatial data pipelines
-- Distributed geospatial processing
+- [Geospatial Databases and PostGIS](blogs/06-geospatial-databases-postgis.md)
+- [Cloud Geospatial Data Pipelines](blogs/07-cloud-geospatial-data-pipelines.md)
 - ETL for satellite and aerial imagery
-- Spatial databases (PostgreSQL/PostGIS)
+- Distributed geospatial processing
 
 ### Python for GIS
 

@@ -1,4 +1,4 @@
-# GIS Foundations in Plain Language: The Core Ideas You Need First
+# GIS Foundations: The Core Ideas You Need First
 
 If you are new to GIS, this post gives you the core mental model fast.  
 If you are preparing for interviews, this post helps you explain the "why" behind common GIS decisions.

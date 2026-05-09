@@ -1,4 +1,4 @@
-# GIS Platforms and Ecosystem in Plain Language
+# GIS Platforms and Ecosystem
 
 If you are new to GIS, tool choices can feel confusing fast.  
 This post gives you a clear, practical overview of the most common GIS apps and how to choose between them.

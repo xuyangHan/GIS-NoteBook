@@ -1,4 +1,4 @@
-# GIS Interview Readiness Playbook in Plain Language
+# GIS Interview Readiness Playbook
 
 This post is the final layer of the series.  
 Goal: help you answer GIS interview questions with clear reasoning, not memorized buzzwords.

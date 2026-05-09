@@ -1,4 +1,4 @@
-# GIS Reference Systems and Transformations in Plain Language
+# GIS Reference Systems and Transformations
 
 This post is the practical follow-up to the foundations guide.  
 Goal: help you choose the right coordinate system, avoid projection mistakes, and debug misalignment issues fast.

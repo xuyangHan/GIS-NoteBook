@@ -14,17 +14,14 @@ This repo is:
 
 ### GIS Platforms and Ecosystem
 
-- QGIS
-- ArcGIS
-- ArcGIS Online and related web GIS workflows
+- [GIS Platforms and Ecosystem in Plain Language](blogs/01-gis-platforms-and-ecosystem.md)
 
 ### GIS Concepts
 
-- Coordinate systems and projections (WGS84, Web Mercator, and when to use each)
-- Raster vs vector data models
-- Spatial indexing fundamentals
-- Geospatial transformations and reprojection
-- Imagery tiling and map tile systems
+- [GIS Concepts Foundations in Plain Language](blogs/02-gis-concepts-foundations.md)
+- [GIS Reference Systems and Transformations in Plain Language](blogs/03-gis-reference-systems-and-transformations.md)
+- [GIS Storage, Performance, and Delivery in Plain Language](blogs/04-gis-storage-performance-and-delivery.md)
+- [GIS Interview Readiness Playbook in Plain Language](blogs/05-gis-interview-readiness-playbook.md)
 
 ### Data and Backend for Geospatial
 

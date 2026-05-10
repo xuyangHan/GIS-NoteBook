@@ -238,9 +238,3 @@ Write the checks, output names, and failure behavior.
 - ETL is about reliability, not only conversion.
 - Keep raw data unchanged.
 - Write temporary outputs before publishing.
-
----
-
-## 12) What to read next
-
-- [Raster, Spatiotemporal Data, and Computer Vision in Python](11-raster-spatiotemporal-computer-vision-python.md)

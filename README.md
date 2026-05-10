@@ -35,6 +35,9 @@ This repo is:
 - [Vector GIS, CRS, and Spatial ETL in Python](blogs/10-vector-gis-crs-etl-python.md)
 - [Raster, Spatiotemporal Data, and Computer Vision in Python](blogs/11-raster-spatiotemporal-computer-vision-python.md)
 - [PostGIS, Geospatial APIs, and GeoAI Systems in Python](blogs/12-postgis-apis-geoai-python.md)
+- [Object Detection on Remote Sensing Imagery](blogs/13-object-detection-remote-sensing-python.md)
+- [Semantic Segmentation for Land-Use/Land-Cover Mapping](blogs/14-semantic-segmentation-land-cover-python.md)
+- [Applied Geospatial ML Workflows](blogs/15-applied-geospatial-ml-workflows-python.md)
 
 ---
 

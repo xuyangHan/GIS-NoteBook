@@ -254,9 +254,3 @@ List the metadata checks that would prevent a bad output.
 - OpenCV is image-first, not GIS-first.
 - Pixel outputs must be mapped back to coordinates carefully.
 - Nodata, transform, CRS, and resampling choices matter.
-
----
-
-## 11) What to read next
-
-- [PostGIS, Geospatial APIs, and GeoAI Systems in Python](12-postgis-apis-geoai-python.md)

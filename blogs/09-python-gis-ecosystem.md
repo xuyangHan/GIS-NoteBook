@@ -226,9 +226,3 @@ For each task, write:
 - FastAPI is useful for spatial APIs.
 - PyQGIS is for QGIS automation.
 - PyTorch and TensorFlow support GeoAI workflows after the spatial data is prepared correctly.
-
----
-
-## 10) What to read next
-
-- [Vector GIS, CRS, and Spatial ETL in Python](10-vector-gis-crs-etl-python.md)

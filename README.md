@@ -29,18 +29,12 @@ This repo is:
 - [Cloud Geospatial Data Pipelines](blogs/07-cloud-geospatial-data-pipelines.md)
 - [Imagery ETL and Distributed Geospatial Processing](blogs/08-imagery-etl-and-distributed-geospatial-processing.md)
 
-### Python for GIS
+### Python and AI/ML for Geospatial Analysis
 
-- QGIS + Python automation
-- Geospatial Python workflows with NumPy and Pandas
-- Computer vision for spatial problems with OpenCV
-- GeoAI/deep learning workflows with PyTorch and TensorFlow
-
-### AI/ML for Geospatial Analysis
-
-- Object detection on remote sensing imagery
-- Semantic segmentation for land-use/land-cover mapping
-- Applied geospatial ML workflows
+- [Python GIS Ecosystem and QGIS Automation](blogs/09-python-gis-ecosystem.md)
+- [Vector GIS, CRS, and Spatial ETL in Python](blogs/10-vector-gis-crs-etl-python.md)
+- [Raster, Spatiotemporal Data, and Computer Vision in Python](blogs/11-raster-spatiotemporal-computer-vision-python.md)
+- [PostGIS, Geospatial APIs, and GeoAI Systems in Python](blogs/12-postgis-apis-geoai-python.md)
 
 ---
 

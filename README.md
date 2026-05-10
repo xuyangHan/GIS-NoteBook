@@ -27,8 +27,7 @@ This repo is:
 
 - [Geospatial Databases and PostGIS](blogs/06-geospatial-databases-postgis.md)
 - [Cloud Geospatial Data Pipelines](blogs/07-cloud-geospatial-data-pipelines.md)
-- ETL for satellite and aerial imagery
-- Distributed geospatial processing
+- [Imagery ETL and Distributed Geospatial Processing](blogs/08-imagery-etl-and-distributed-geospatial-processing.md)
 
 ### Python for GIS
 
